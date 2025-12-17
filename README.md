@@ -1,4 +1,4 @@
->**SISTEM PENDUKUNG KEPUTUSAN METODE Simple Additive Weighting**
+>**SISTEM PENDUKUNG KEPUTUSAN METODE SAW (_Simple Additive Weighting_)**
 
 | **ANGGOTA KELOMPOK 10:** |
 |---------------|
@@ -7,6 +7,7 @@
 | ------ | ----- |
 |  Hannifa Indah Rahayu  | 312310653  |
 |  Dita Aulia  | 312310649 |
+
 
 
 
